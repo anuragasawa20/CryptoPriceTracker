@@ -1,0 +1,220 @@
+
+.nav {
+            padding: 20px 30px 0px;
+    }
+
+.theme-dark {
+    position: relative;
+    background: #191d28;
+    min-height: 100vh;
+    color: #fff;
+    font-family: Oswald, sans-serif;
+}
+
+.header-telegram-button {
+    margin: 10px;
+    padding: 6px 20px;
+    border-radius: 10px;
+    background-color: #3dc6c1;
+    color: #fff !important;
+}
+
+/* @media screen and (min-width: 1400px) */
+.logo {
+    width: 70%;
+}
+
+.btn-group,
+.btn-group-vertical{
+    position: relative;
+        display: inline-flex;
+        vertical-align: middle;
+}
+
+.right-header {
+            text-align: right;
+}
+
+.btn:not(:disabled):not(.disabled) {
+                    cursor: pointer;
+}
+
+.d-flex {
+    display: flex !important;
+}
+
+.align-items-center {
+    align-items: center !important;
+}
+
+.telegram-logo {
+    height: 18px;
+    margin-right: 8px;
+}
+
+img,
+svg {
+    vertical-align: middle;
+}
+
+.progress-bar-wrapper {
+    height: 36px;
+    width: 36px;
+    margin: 10px;
+}
+
+.CircularProgressbar {
+    width: 100%;
+    vertical-align: middle;
+}
+
+.CircularProgressbar .CircularProgressbar-trail{
+    stroke: #d5d5d5;
+    stroke-linecap: round;
+    stroke-dasharray: 289.027px, 289.027px;
+        stroke-dashoffset: 0px;
+}
+
+.CircularProgressbar .CircularProgressbar-path{
+    stroke: #3dc6c1 !important;
+    stroke-dasharray: 289.027px, 289.027px;
+    stroke-dashoffset: 110.794px;
+}
+/* element.style{
+    stroke-dasharray: 289.027px , 289.027px;
+} */
+
+.CircularProgressbar .CircularProgressbar-text{
+    fill:#3dc6c1!important;
+    font-size: 46px!important;
+    font-weight: 500;
+    dominant-baseline: middle;
+    text-anchor: middle;
+}
+
+
+
+.padding-bottom-50{
+   padding-bottom: 50px;
+}
+
+.color-green{
+    color: #5dc7c2;
+}
+
+.average-header-maintext{
+    font-weight: 400;
+    font-size: 40px;
+}
+
+.theme-dark .average-header-subHeading,
+.theme-dark .average-subText{
+    color: #fff;
+}
+
+.average-header-subHeading,
+.average-header-subtext{
+    opacity: 0.45;
+    font-weight: 300;
+}
+
+.average-header-subHeading{
+    font-size: 20px;
+}
+
+.average-block{
+    padding-bottom: 30px;
+}
+
+.subText-heading{
+    font-size: 28px;
+}
+
+.average-heading{
+    font-weight: 400;
+    font-size: 80px;
+}
+
+.average-subText{
+    opacity:0.45;
+    font-weight: 300;
+    font-size: 16px;
+    letter-spacing: .75px;
+}
+
+.text-center{
+    text-align: center!important;
+}
+
+.theme-dark .fiat-crypto-table{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.theme-dark .fiat-crypto-table table{
+    width: 100%;
+    max-width: 100%;
+    border-collapse: separate;
+    border-spacing: 0 1em;
+    margin: 0;
+}
+.table{
+    color:#212529;
+}
+
+.theme-dark .fiat-crypto-table th{
+    color: #fff;
+    padding: 0 12px;
+}
+
+.table-borderless tbody+tbody,
+.table-borderless td,
+.table-borderless th,
+.table-borderless thead th{
+    border:0;
+}
+
+.table thead th{
+    vertical-align: bottom;
+}
+
+.theme-dark .fiat-crypto-table th h4{
+    font-family: Oswald;
+    font-size: 24px;
+    opacity: .45;
+    letter-spacing: 1px;
+    margin: 0 0 -5px;
+}
+
+.pointer{
+    cursor: pointer;
+}
+
+.theme-dark .fiat-crypto-table tbody td:first-child{
+    border-radius: 10px 0 0 10px;
+}
+
+.theme-dark .fiat-crypto-table td{
+    color: #fff;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.exchange-logo{
+    height: 25px;
+    width: 25px;
+    border-radius: 50%; 
+}
+
+.bitbns-logo {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
+
+img, svg{
+    vertical-align:middle ;
+}
+
+img{
+    border-style: none;
+}   
